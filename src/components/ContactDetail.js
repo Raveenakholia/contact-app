@@ -21,7 +21,7 @@ import user from '../images/user.jpg'
                 <div className='desciption'>{location.state.email}</div>
             </div>         
         </div>
-        <Link to="/contact"> <button className='ui button blue centered'>Bank to Contacts</button></Link>
+        <Link to="/contact"> <button className='ui button blue center'>Bank to Contacts</button></Link>
       
     </div>
   )
